@@ -1,0 +1,54 @@
+
+        .logo{
+            text-align: center;
+            margin-top: 10%;
+        }
+        .search{
+            background-color: #EEEEEE;
+            width: 68%;
+            min-height: 65px;
+            margin: auto;
+        }
+        .search{
+            text-align: center;
+        }
+        .p1{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        }
+        #ara{
+            width: 400px;
+        }
+        .boxes{
+            display: flex;
+            width: 68%;
+            min-height: 95px;
+            margin: auto;
+        }
+        .box1{
+            text-align: center;
+            width: 37%;
+            float: left;
+            background-color:cyan;
+            padding-top: 10px;
+            margin-right: 2px;
+        }
+        .box2{
+            text-align: center;
+            background-color: aquamarine;
+            width: 20%;
+            padding-top: 10px;
+            margin-right: 2px;
+        }
+        .box3{
+            text-align: center;
+            background-color: aqua;
+            width: 44%;
+            padding-top: 10px;
+            margin-right: 2px;
+        }
+
+        .copy{
+            text-align: center;
+        }
+        
+  
